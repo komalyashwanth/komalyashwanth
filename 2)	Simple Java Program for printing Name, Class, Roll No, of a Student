@@ -1,0 +1,9 @@
+class Main
+{
+	public static void main(String[] args)
+		{
+			System.out.println("Name: Komal");
+			System.out.println("Class :CSE-C");
+			System.out.println("Roll No:24243");
+		}
+}
